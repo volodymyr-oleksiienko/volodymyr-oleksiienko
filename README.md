@@ -35,3 +35,4 @@ pipeline:
 ### 📫 Connect with Me
 
 * **Email:** v.s.oleksiienko@gmail.com
+* **LinkedIn:** [Volodymyr Oleksiienko](https://linkedin.com/in/v-oleksiienko)
